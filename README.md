@@ -42,25 +42,39 @@ Een motiverende quote voor jezelf
 Ik maak dit omdat ik groot fan ben van deze band ook vindt ik het een leuke genre.
 
 Geef aan welke Kerntaken/Werkprocessen je met deze opdracht hoopt te vullen:
-B1-K1-W1, B1-K1-W2, B1-K1-W3, B1-K1-W4, B1-K1-W5
+B1-K1-W1, B1-K1-W2, B1-K1-W3, B1-K1-W4 en B1-K1-W5
 
 # README1.md
 
 ## Studentgegevens
-Studentnaam
-Studennummer
+Studentnaam: Dylan Greven
+Studennummer: 97113790
 
 ## Projectgegeven
-Naam van het project
-Beschrijving van het project
-De reden(en) waarom je dit project wilt maken
+Naam van het project: The DutchBoys nieuwe site
+
+Beschrijving van het project:
+Ik ga de wireframes/mockups maken van de nieuwe verbeterde website van The Dutchboys.
+
+De reden(en) waarom je dit project wilt maken:
+Ik kan dan later binnen dit project een beter beeld krijgen van wat de bedoeling is 
 Beschrijving van de randvoorwaarden
-Denk aan AVG, Copyright, Licenties, Wettelijke impact, Maatschappelijke impact
+
+Denk aan AVG, Copyright, Licenties, Wettelijke impact, Maatschappelijke impact:
+Ja copyright zit er in voor de plaatjes en de naam van de arties de rest is N.V.T.
+
 Begin- en einddatum van het project
+het begint op 15-09(september)-2026 en eindigt 22-09(september)-2026
 
 ## Leerdoelen
 Welke leerdoelen kun je benoemen voor dit project
+ik wil leren wireframs/mockups beter begrijpen en maken.
+
 Welke werkprocessen oefen je met dit project
+B1-K1-W1 en B1-K1-W2
+
 Een motiverende quote voor jezelf
-Kerntaken / Werkprocessen
-Geef aan welke werkprocessen je met deze opdracht hoopt te vullen.
+ik doe dit omdat ik zelf groot fan ben en wil kijken of ik dit kan maken ook om dit te leren
+
+Geef aan welke Kerntaken/Werkprocessen je met deze opdracht hoopt te vullen.
+B1-K1-W1 en B1-K1-W2
