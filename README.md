@@ -1,4 +1,4 @@
-#Dutchboys nieuwe site.md
+# Dutchboys nieuwe site.md
 De README.md heeft een duidelijke opbouw met kopjes en alinea's. Je gebruikt goede
 nederlandse zinnen. README.md is in markdown geschreven, vandaar de md extensie.
 
@@ -6,11 +6,11 @@ De readme moet een stakeholder snel duidelijk maken wat je wilt maken, waarom je
 
 Dit bestand heeft de volgende alinea's.
 
-##Studentgegevens
+## Studentgegevens
 Studentnaam: Dylan Greven
 Studennummer: 97113790
 
-##Projectgegeven
+## Projectgegeven
 Naam van het project: Dutch Boys website verbeteren
 
 Beschrijving van het project:
@@ -30,7 +30,7 @@ Er is niet echt een wettelijke impact maar wel een maatschappelijke voor de mens
 Begin- en einddatum van het project:
 mijn datum waar ik op wil beginnen wordt 15-09(september)-2026 tot 13-10(oktober)-2026
 
-##Leerdoelen
+## Leerdoelen
 Welke leerdoelen kun je benoemen voor dit project:
 Het aanmaken van nieuwe pagina's vanuit een gebruiker inplaats van de backend voor de nieuws pagina.
 Een agenda die soepel  kan door lopen en waar de oudere optredens die al geweest zijn in een ander tab komen.
@@ -44,13 +44,13 @@ Ik maak dit omdat ik groot fan ben van deze band ook vindt ik het een leuke genr
 Geef aan welke Kerntaken/Werkprocessen je met deze opdracht hoopt te vullen:
 B1-K1-W1, B1-K1-W2, B1-K1-W3, B1-K1-W4, B1-K1-W5
 
-#README1.md
+# README1.md
 
-##Studentgegevens
+## Studentgegevens
 Studentnaam
 Studennummer
 
-##Projectgegeven
+## Projectgegeven
 Naam van het project
 Beschrijving van het project
 De reden(en) waarom je dit project wilt maken
@@ -58,7 +58,7 @@ Beschrijving van de randvoorwaarden
 Denk aan AVG, Copyright, Licenties, Wettelijke impact, Maatschappelijke impact
 Begin- en einddatum van het project
 
-##Leerdoelen
+## Leerdoelen
 Welke leerdoelen kun je benoemen voor dit project
 Welke werkprocessen oefen je met dit project
 Een motiverende quote voor jezelf
