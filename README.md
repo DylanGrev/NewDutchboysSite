@@ -8,6 +8,7 @@ Dit bestand heeft de volgende alinea's.
 
 ## Studentgegevens
 Studentnaam: Dylan Greven
+
 Studennummer: 97113790
 
 ## Projectgegeven
